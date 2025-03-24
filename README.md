@@ -5,6 +5,7 @@
 Git practice laboratory for software construction & desicion making
 
 <h2>Contents</h2>
+<h3>Images</h3>
 
 Efrén Chávez Camacho
 

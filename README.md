@@ -7,3 +7,11 @@ Git practice laboratory for software construction & desicion making
 <h2>Contents</h2>
 
 Efrén Chávez Camacho
+
+<h2>References</h2>
+
+[Github documentation](https://docs.github.com/en)
+
+[Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+
+[Git documentation](https://git-scm.com/doc)

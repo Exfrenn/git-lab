@@ -6,6 +6,7 @@ Git practice laboratory for software construction & desicion making
 
 <h2>Contents</h2>
 <h3>Images</h3>
+![Image of Gengar](Gengar.png)
 
 Efrén Chávez Camacho
 

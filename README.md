@@ -11,6 +11,14 @@ Git practice laboratory for software construction & desicion making
 
 Efrén Chávez Camacho
 
+<h3>Code examples</h3>
+
+```python
+i=3
+j=4
+print(i+j)
+```
+
 <h2>References</h2>
 
 [Github documentation](https://docs.github.com/en)

@@ -6,7 +6,8 @@ Git practice laboratory for software construction & desicion making
 
 <h2>Contents</h2>
 <h3>Images</h3>
-![Image of Gengar](Gengar.png)
+
+![Image of gengar, my favorite pokemon.](https://github.com/Exfrenn/git-lab/blob/main/Gengar.png?raw=true)
 
 Efrén Chávez Camacho
 

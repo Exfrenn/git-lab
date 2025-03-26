@@ -19,6 +19,12 @@ j=4
 print(i+j)
 ```
 
+<h3>Lists</h3>
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <h2>References</h2>
 
 [Github documentation](https://docs.github.com/en)

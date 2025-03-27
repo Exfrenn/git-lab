@@ -8,6 +8,7 @@ Git practice laboratory for software construction & desicion making
 <h3>Images</h3>
 
 ![Image of gengar, my favorite pokemon.](https://github.com/Exfrenn/git-lab/blob/main/Gengar.png?raw=true)
+![Image of Garchomp, my second favorite pokemon.](Garchomp.png)
 
 Efrén Chávez Camacho
 
